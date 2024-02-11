@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\chat\host\bin\Debug\host.exe.config
+C:\Users\user\source\repos\chat\host\bin\Debug\host.exe
+C:\Users\user\source\repos\chat\host\bin\Debug\host.pdb
+C:\Users\user\source\repos\chat\host\bin\Debug\chat.dll
+C:\Users\user\source\repos\chat\host\bin\Debug\chat.pdb
+C:\Users\user\source\repos\chat\host\bin\Debug\chat.dll.config
+C:\Users\user\source\repos\chat\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\chat\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\chat\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\user\source\repos\chat\host\obj\Debug\host.exe
+C:\Users\user\source\repos\chat\host\obj\Debug\host.pdb
